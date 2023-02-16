@@ -1,0 +1,368 @@
+section {
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    height: 40px;
+
+}
+.name {
+    margin-top: -80px;
+}
+a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+   
+}
+.google {
+    margin-top: -10px;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 10px;
+}
+.analize {
+    gap: 10px;
+    margin-left: -850px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+button {
+    background-color: rgb(35, 35, 194);
+    color: white;
+    height: 35px;
+    width: 85px;
+}
+h2 {
+    font-weight: 50px;
+}
+p {
+    font-weight: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: darkblue;
+}
+.major {
+    background-color: rgb(255, 119, 0);
+    color: white;
+    height: 50px;
+}
+.main {
+    color: black;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 80px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* display: flex  ; */
+}
+.control {
+    float: right;
+    margin-top: 0px;
+    width: 700PX;
+    height: 340PX;
+    position: absolute;
+    top: 18%;
+    left: 45%;
+    /* box-shadow: 0px 10px 5px 02x black; */
+}
+.one {
+    color: white;
+    margin-left: 100px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.manure {
+    border: 1px solid;
+    height: 500px;
+    width: 100vw;
+    background-color: blue;
+}
+
+/* /* .container {
+    width: 100vw;
+    height: 500px;
+    background-color: blue; */
+
+.dd {
+    position: absolute;
+    top: 790px;
+    left: 260px;
+    cursor: pointer;
+}
+.bb {
+    position: absolute;
+    top: 790px;
+    left: 550px;
+    cursor: pointer;
+}
+.jj {
+    position: absolute;
+    left: 830px;
+    top: 790px;
+}
+.ff {
+    position: absolute;
+    left: 1100px;
+    top: 790px;
+}
+.vv {
+    position: absolute;
+    top: 1100px;
+    left: 260px;
+}
+.zz {
+    position: absolute;
+    top: 1100px;
+    left: 550px;
+}
+header {
+}
+h3 {
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.container {
+    border: px solid ;
+    background-color: rgb(41, 41, 114);
+    /* display: flex; */
+    margin-top: 74px;
+
+    
+}
+.rain {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+    /* justify-content: space-evenly; */
+    justify-content: flex-start;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
+.two, .three, .four, .five, .six, .seven {
+    background-color: white;
+    border: 1px;
+    width: 250px;
+    height: 330px;
+    padding-left: 20px;
+}
+
+.goo, .gle, .git, .eco, .system, .sony {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.max {
+    border: px solid grey;
+    border-bottom: 1px solid grey;
+    
+}    
+
+.hello {
+    float: left;
+    border-bottom: 1px solid grey; 
+    margin-left: 50px;   
+    box-shadow: 1px 0px 10px  0px black;
+}
+.word {
+    float: left;
+}
+.hop {
+    border: px solid grey;
+    border-bottom: 1px solid grey;
+    
+}
+.eric {
+    float: left;
+    border: px solid grey ;
+}
+.cartoon {
+    border: px solid grey;
+    float: left;
+    margin-top: 50px;
+    border-bottom: 1px solid grey;
+    margin-left: 50px;
+    box-shadow: 1px 0px 10px  0px black;
+}
+.gav {
+    border: 0px solid grey;
+    margin-top: 50px;
+    border-top: 1px thick grey;
+    border-bottom: 1px solid grey;
+    float: left;
+     box-shadow: 1px 0px 10px  0px black;
+    margin-left: 50px;
+    
+}
+.veer {
+    float: left;
+}
+.nava {
+    border: px solid grey;
+    border: px solid grey;
+    border-bottom: 1px solid grey;
+    border-top: px solid grey;
+}
+.bold {
+    font-weight: lighter;
+    padding-top: 100px;
+    margin-top: 350px;
+}
+.analytic {
+    padding-left: 50px;
+    padding-top: 300px;
+}
+#sega {
+    display: flex;
+    gap: 2px;
+    justify-content: space-evenly;
+    
+}
+.apple {
+    position: absolute;
+    top: 321%;
+    left: 35%;
+}
+.bash {
+    position: absolute;
+    top: 322%;
+    left: 10%;
+}
+.android {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 322%;
+    left: 60%;
+}
+.daughter {
+    position: absolute;
+    top: 322%;
+    left: 85%;
+}
+#one {
+    border: px solid;
+    width: 250px;
+    height: 90px;
+    color: black;
+    padding-top: 60px;
+    padding-left: 40px;
+    box-shadow: 1px 0px 10px  0px black;
+}
+#two {
+    border: px solid;
+    width: 250px;
+    height: 90px;
+    color: black;
+    padding-top: 60px;
+    padding-left: 40px;
+    box-shadow: 1px 0px 10px  0px black;
+
+}
+#three {
+    border: px solid;
+    width: 250px;
+    height: 90px;
+    color: black;
+    padding-top: 60px;
+    padding-left: 40px;
+    box-shadow: 1px 0px 10px  0px black;
+}
+#four {
+    border: px solid;
+    width: 250px;
+    height: 90px;
+    padding-top: 60px;
+    padding-left: 40px;
+    box-shadow: 1px 0px 10px  0px black;
+}
+
+.camp {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#five {
+    border: px solid;
+    width: 150px;
+    height: 90px;
+     padding-top: 70px;
+    padding-left: 50px;
+}
+#six {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 50px;
+     
+}
+#seven {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 50px; 
+}
+#eight {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 50px;
+}
+#nine {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 50px; 
+}
+.hit {
+    position: absolute;
+    top: 353%;
+    left: 9%;
+}
+.the {
+    position: absolute;
+    top: 353%;
+    left: 27%;
+}
+.ground {
+    position: absolute;
+    top: 353%;
+    left: 47%;
+}
+.for {
+    position: absolute;
+    top: 353%;
+    left: 66%;
+}
+.you {
+    position: absolute;
+    top: 353%;
+    left: 86%;
+}
+
+
+.maker {
+    /* margin-left: 100px; */
+    border: px solid grey;
+    border-bottom: 1px solid grey;
+    font-weight: lighter;
+    padding-left: 100px;
+}
+
+ul {
+    float: right;
+    gap: 25px;
+    font-size: 15px;
+}
+
+
