@@ -1,0 +1,41 @@
+@media screen and (max-width:475px) {
+    section {
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    height: 40px;    
+}
+a {
+      display: flex;
+      text-decoration: none;
+      color: black;
+      position: absolute;
+      left: 150px;
+      font-size: 15px;
+    }
+button {
+    display: none;
+}
+.major {
+    background-color: rgb(255, 119, 0);
+    color: white;
+    height: 90px;
+    font-size: 15px;
+}
+.control {
+    display: none;
+}
+.normal {
+    height: 50vh;
+    position: relative;
+    top: -50px;
+    left: -20px;
+    width: 300px;
+} 
+h2 {
+    font-weight: 200;
+    font-size: ;
+}
+
+}
