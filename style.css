@@ -85,12 +85,6 @@ button:hover {
     width: 100vw;
     background-color: blue;
 }
-
-/* /* .container {
-    width: 100vw;
-    height: 500px;
-    background-color: blue; */
-
 .dd {
     position: absolute;
     top: 790px;
@@ -135,9 +129,7 @@ button:hover {
     width: 100vw;
     background-color: rgb(76, 76, 179);
     /* display: flex; */
-    margin-top: 74px;
-
-    
+    margin-top: 74px;    
 }
 .rain {
     display: flex;
@@ -234,26 +226,22 @@ button:hover {
     
 }
 .apple {
-    position: absolute;
-    top: 337%;
-    left: 35%;
+    margin-top: -400px;
+    margin-left: 80px;
 }
 .bash {
-    position: absolute;
-    top: 337%;
-    left: 10%;
+    margin-top: -400px;
+    margin-left: 80px;
 }
 .android {
     width: 50px;
     height: 50px;
-    position: absolute;
-    top: 337%;
-    left: 60%;
+    margin-top: -400px;
+    margin-left: 80px;
 }
 .daughter {
-    position: absolute;
-    top: 337%;
-    left: 85%;
+    margin-top: -400px;
+    margin-left: 80px;
 }
 #one {
     border: px solid;
@@ -334,29 +322,24 @@ button:hover {
     padding-left: 50px; 
 }
 .hit {
-    position: absolute;
-    top: 370%;
-    left: 10%;
+    margin-top: -20px;
+    margin-left: 30px;
 }
 .the {
-    position: absolute;
-    top: 370%;
-    left: 29%;
+    margin-top: -20px;
+    margin-left: 30px;
 }
 .ground {
-    position: absolute;
-    top: 370%;
-    left: 48%;
+    margin-top: -20px;
+    margin-left: 30px;
 }
 .for {
-    position: absolute;
-    top: 370%;
-    left: 67%;
+    margin-top: -20px;
+    margin-left: 30px;
 }
 .you {
-    position: absolute;
-    top: 370%;
-    left: 87%;
+    margin-top: -20px;
+    margin-left: 30px;
 }
 
 
