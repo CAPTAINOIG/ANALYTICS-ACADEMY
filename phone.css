@@ -7,22 +7,23 @@
     height: 40px;    
 }
 .name {
-    width: 10%;
+    width: 20%;
+    
 }
 .analize {
     gap: 10px;
     margin-left: -900px;
     margin-top: 10px;
     font-size: 25px;
-    width: 10%;
+    width: 100%;
 }
 section {
-    width: 75%;
+    width: 95%;
 }
 a {
       display: flex;
       text-decoration: none;
-      color: black;
+      color: rgb(5, 4, 4);
       position: absolute;
       left: 150px;
       font-size: 15px;
@@ -35,7 +36,7 @@ button {
     color: white;
     height: 90px;
     font-size: 15px;
-    width: 80%;
+    width: 100%;
 }
 .control {
     display: none;
@@ -45,21 +46,21 @@ button {
     position: relative;
     top: -50px;
     left: -20px;
-    width: 300px;
+    width: 105%;
 } 
 h2 {
     font-weight: 200;
 }
 .container {
     border: px solid;
-    width: 75vw;
+    width: 100%;
     background-color: rgb(76, 76, 179);
-    margin-top: -70px;    
+    margin-top: -180px;    
 }
 .alpha {
     color: white;
     font-size: 20px;
-    margin-left: 20px;
+    margin-left: 30px;
     padding-top: 10px;
 }
 .rain {
@@ -70,11 +71,12 @@ h2 {
     padding-bottom: 0px;
     padding-left: 0px;
     padding: 50px;
+    
 }
 .two {
     background-color: white;
     border: 1px;
-    width: 220px;
+    width: 230px;
     height: 200px;
     padding-left: 20px;
     margin-left: -20px;
@@ -95,7 +97,7 @@ h2 {
 .three {
     background-color: white;
     border: 1px;
-    width: 220px;
+    width: 230px;
     height: 200px;
     padding-left: 20px;
     margin-left: -20px;
@@ -119,7 +121,7 @@ h2 {
 .four {
     background-color: white;
     border: 1px;
-    width: 220px;
+    width: 230px;
     height: 200px;
     padding-left: 20px;
     margin-left: -20px;
@@ -143,7 +145,7 @@ h2 {
 .five {
     background-color: white;
     border: 1px;
-    width: 220px;
+    width: 230px;
     height: 200px;
     margin-top: 20px;
     padding-left: 20px;
@@ -190,7 +192,7 @@ h2 {
 .seven {
     background-color: white;
     border: 1px;
-    width: 220px;
+    width: 230px;
     height: 200px;
     padding-left: 20px;
     margin-left: -20px;
@@ -216,7 +218,7 @@ h2 {
     border-bottom: 1px solid grey;   
     box-shadow: 1px 0px 10px  0px black;
     margin-left: 10px;
-    width: 60%;
+    width: 95%;
 }
 .word {
     float: left;
@@ -229,7 +231,7 @@ h2 {
     border-bottom: 1px solid grey;
     margin-left: 10px;
     box-shadow: 1px 0px 10px  0px black;
-    width: 60%;
+    width: 95%;
 }
 .eric {
     float: left;
@@ -245,7 +247,7 @@ h2 {
     float: left;
     box-shadow: 1px 0px 10px  0px black;
     margin-left: 10px;
-    width: 60%;
+    width: 95%;
     
 }
 .veer {
@@ -260,16 +262,18 @@ h2 {
 .bold {
     font-weight: lighter;
     padding-top: 100px;
-    margin-top: 350px;
-    width: 50%;
+    margin-top: 50px;
+    width: 100%;
+    margin-left: 50px;
 }
 #over {
-    width: 60%;
+    width: 100%;
 }
 #sega {
    flex-direction: column;
     justify-content: space-around;
     row-gap: 20px;
+    width: 100%;
 }
 
 .maker {
@@ -280,6 +284,46 @@ h2 {
     font-size: 15px;
     margin-left: -20px;
 }
+#one {
+    border: px solid;
+    width: 80%;
+    height: 90px;
+    color: black;
+    padding-top: 60px;
+    padding-left: 80px;
+    font-size: 20px;
+    box-shadow: 1px 0px 5px  0px black;
+}
+#two {
+    border: px solid;
+    width: 80%;
+    height: 90px;
+    font-size: 20px;
+    color: black;
+    padding-top: 60px;
+    padding-left: 80px;
+    box-shadow: 1px 0px 5px  0px black;
+
+}
+#three {
+    border: px solid;
+    width: 80%;
+    height: 90px;
+    color: black;
+    font-size: 20px;
+    padding-top: 60px;
+    padding-left: 80px;
+    box-shadow: 1px 0px 5px  0px black;
+}
+#four {
+    border: px solid;
+    width: 80%;
+    height: 90px;
+    padding-top: 60px;
+    padding-left: 80px;
+    font-size: 20px;
+    box-shadow: 1px 0px 5px  0px black;
+}
 .camp {
     flex-direction: column;
     justify-content: space-evenly;
@@ -289,6 +333,42 @@ ul {
     font-size: 10px;
     margin-left: -250px;
     margin-top: 20px;
+}
+#five {
+    border: px solid;
+    width: 150px;
+    height: 90px;
+    padding-top: 70px;
+    padding-left: 150px;
+}
+#six {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 80px;
+    padding-left: 150px;
+     
+}
+#seven {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 150px; 
+}
+#eight {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 150px;
+}
+#nine {
+    border: px solid;
+    width: 150px;
+    height: 80px;
+    padding-top: 70px;
+    padding-left: 150px; 
 }
 #ses {
     position: absolute;
